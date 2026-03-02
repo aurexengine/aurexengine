@@ -1,6 +1,7 @@
 {
     "name": "aurexengine/aurexengine",
     "description": "A lightweight PHP engine for building custom frameworks and applications.",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "require": {
