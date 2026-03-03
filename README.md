@@ -12,8 +12,8 @@ These are the core packages and starter app required for Phase 1 of the engine.
 - [✅] `aurexengine/http`
 - [✅] `aurexengine/routing`
 - [✅] `aurexengine/mvc`
-- [ ] `aurexengine/database`
-- [ ] `aurexengine/auth`
+- [✅] `aurexengine/database`
+- [✅] `aurexengine/auth`
 - [ ] `aurexengine/ui`
 - [ ] `aurexengine/installer` *(optional – may live in skeleton)*
 - [ ] `aurexengine/cli` *(or bundled into core; separate preferred)*
